@@ -1,0 +1,22 @@
+.square{
+    min-height:98px;
+    min-width:98px;
+    background-color: aqua;
+    border:1px solid black;
+    display: inline-block;
+}
+.clickedsquarebyplayer1{
+    min-height:98px;
+    min-width:98px;
+    background-color: red;
+    border:1px solid black;
+    display: inline-block;
+}
+
+.clickedsquarebyplayer2{
+    min-height:98px;
+    min-width:98px;
+    background-color: green;
+    border:1px solid black;
+    display: inline-block;
+}
